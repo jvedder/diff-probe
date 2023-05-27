@@ -1,33 +1,16 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 31,
     "active_layer_preset": "",
     "auto_track_width": false,
-    "hidden_nets": [
-      "/IN_POS",
-      "/ATTEN_POS",
-      "GND",
-      "/IN_NEG",
-      "/ATTEN_NEG",
-      "VSS",
-      "Net-(D4-Pad3)",
-      "/OUT",
-      "/FB_POS",
-      "/FB_NEG",
-      "/BUF_POS",
-      "/DIFF_POS",
-      "/BUF_NEG",
-      "/DIFF_NEG",
-      "/DIFF",
-      "Net-(D3-Pad1)"
-    ],
+    "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
       "pads": 1.0,
       "tracks": 0.7599999904632568,
       "vias": 1.0,
-      "zones": 0.6700000166893005
+      "zones": 0.7300000190734863
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
