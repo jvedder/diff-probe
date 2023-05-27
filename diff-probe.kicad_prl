@@ -1,9 +1,26 @@
 {
   "board": {
-    "active_layer": 2,
+    "active_layer": 0,
     "active_layer_preset": "",
-    "auto_track_width": true,
-    "hidden_nets": [],
+    "auto_track_width": false,
+    "hidden_nets": [
+      "/IN_POS",
+      "/ATTEN_POS",
+      "GND",
+      "/IN_NEG",
+      "/ATTEN_NEG",
+      "VSS",
+      "Net-(D4-Pad3)",
+      "/OUT",
+      "/FB_POS",
+      "/FB_NEG",
+      "/BUF_POS",
+      "/DIFF_POS",
+      "/BUF_NEG",
+      "/DIFF_NEG",
+      "/DIFF",
+      "Net-(D3-Pad1)"
+    ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -14,14 +31,14 @@
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
-      "dimensions": true,
+      "dimensions": false,
       "footprints": true,
-      "graphics": true,
-      "keepouts": true,
+      "graphics": false,
+      "keepouts": false,
       "lockedItems": false,
-      "otherItems": true,
-      "pads": true,
-      "text": true,
+      "otherItems": false,
+      "pads": false,
+      "text": false,
       "tracks": true,
       "vias": true,
       "zones": true
@@ -62,7 +79,7 @@
       35,
       36
     ],
-    "visible_layers": "ff09000_fffffffd",
+    "visible_layers": "ff49000_fffffff9",
     "zone_display_mode": 0
   },
   "meta": {
