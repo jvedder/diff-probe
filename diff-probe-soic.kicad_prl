@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "ff09000_fffffffd",
+    "visible_layers": "ff09000_7ffffffc",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "diff-probe.kicad_prl",
+    "filename": "diff-probe-soic.kicad_prl",
     "version": 3
   },
   "project": {

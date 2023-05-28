@@ -686,7 +686,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "diff-probe.kicad_pro",
+    "filename": "diff-probe-soic.kicad_pro",
     "version": 1
   },
   "net_settings": {
