@@ -1935,7 +1935,7 @@
     (property "Value" "MountingHole" (id 1) (at 142.24 195.5799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 139.7 194.31 0)
+    (property "Footprint" "MountingHole:MountingHole_2.5mm" (id 2) (at 139.7 194.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 139.7 194.31 0)
@@ -2387,7 +2387,7 @@
     (property "Value" "MountingHole" (id 1) (at 142.24 190.4999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 139.7 189.23 0)
+    (property "Footprint" "MountingHole:MountingHole_2.5mm" (id 2) (at 139.7 189.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 139.7 189.23 0)
@@ -2609,10 +2609,10 @@
       (reference "D21") (unit 1) (value "LED") (footprint "Diode_SMD:D_0603_1608Metric")
     )
     (path "/be280c6e-8099-4ffc-9367-3df062c47e8a"
-      (reference "H1") (unit 1) (value "MountingHole") (footprint "")
+      (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.5mm")
     )
     (path "/5c4dbb16-febf-4842-8a85-a3a0da07b051"
-      (reference "H2") (unit 1) (value "MountingHole") (footprint "")
+      (reference "H2") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.5mm")
     )
     (path "/a512f229-554d-4a20-9596-d8a4393b9d1e"
       (reference "J1") (unit 1) (value "Conn_01x02") (footprint "Library:PinHeader_1x02_P2.54mm_Vertical")
