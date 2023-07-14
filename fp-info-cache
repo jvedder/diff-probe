@@ -1,4 +1,4 @@
-20923719865663538
+20925405368947412
 $MyFootprints
 BNC_Molex_73100-0167_Horizontal
 dual independently isolated BNC plug (https://www.amphenolrf.com/downloads/dl/file/id/2980/product/644/031_6575_customer_drawing.pdf)
@@ -58673,6 +58673,13 @@ resistor
 0
 2
 2
+Library
+SAMTEC_TSW-103-08-G-S-RA
+
+
+0
+3
+3
 Library
 SO-8_3.9x4.9mm_P1.27mm
 SO, 8 Pin (https://www.nxp.com/docs/en/data-sheet/PCF8523.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
